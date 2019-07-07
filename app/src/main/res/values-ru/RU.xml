@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="todayButton">Сегодня</string>
+    <string name="tomorrowButton">Завтра</string>
+    <string name="weekButton">На неделю</string>
+    <string name="_currentWeather">Текущая погода</string>
+    <string name="hour_1">hour+1</string>
+    <string name="hour_2">hour+2</string>
+    <string name="hour_4">hour+4</string>
+    <string name="hour_3">hour+3</string>
+    <string name="cityname">Город</string>
+</resources>
