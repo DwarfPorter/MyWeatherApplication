@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Weather</string>
+    <string name="todayButton">Today</string>
+    <string name="tomorrowButton">Tomorrow</string>
+    <string name="weekButton">Week</string>
+    <string name="_currentWeather">currentWeather</string>
+    <string name="hour_1">hour+1</string>
+    <string name="hour_2">hour+2</string>
+    <string name="hour_4">hour+4</string>
+    <string name="hour_3">hour+3</string>
+    <string name="cityname">CityName</string>
+    <string name="todo">TODO</string>
 </resources>
